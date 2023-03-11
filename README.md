@@ -1,1 +1,1 @@
-Shell_basics readme
+Task 0. Where am I?
